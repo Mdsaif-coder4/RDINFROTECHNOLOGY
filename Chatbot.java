@@ -1,8 +1,7 @@
 import java.util.Scanner;
 class Chatbot 
 {
-
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Hello! I'm a chatbot. How can I help you today?");
 
